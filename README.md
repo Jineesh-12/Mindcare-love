@@ -1,6 +1,10 @@
 <h2>Smart AI health monitoring for student</h2>
+<br>
+Use of AI
+<hr>
 <h1>🚀 Overview</h1>
 The Smart AI Health Monitoring System is an intelligent, IoT-based application designed to support students in maintaining their well-being during intense academic semesters. By integrating real-time sensor data with AI-driven analytics, the system tracks vital signs and provides personalized health insights, helping students prevent burnout and prioritize their physical health alongside their engineering studies.
+<br>
 
 **Prerequisites:**  Node.js
 
