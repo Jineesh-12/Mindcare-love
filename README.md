@@ -1,14 +1,6 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
-</div>
-
-# Run and deploy your AI Studio app
-
-This contains everything you need to run your app locally.
-
-View your app in AI Studio: https://ai.studio/apps/bd47c773-b872-479e-81f5-767cad0a4f4f
-
-## Run Locally
+<h2>Smart AI health monitoring for student</h2>
+<h1>🚀 Overview</h1>
+The Smart AI Health Monitoring System is an intelligent, IoT-based application designed to support students in maintaining their well-being during intense academic semesters. By integrating real-time sensor data with AI-driven analytics, the system tracks vital signs and provides personalized health insights, helping students prevent burnout and prioritize their physical health alongside their engineering studies.
 
 **Prerequisites:**  Node.js
 
