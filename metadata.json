@@ -1,0 +1,6 @@
+{
+  "name": "MindCare",
+  "description": "Student Mental Health Monitor - Track your mood, find coping strategies, and chat with a supportive AI mental health assistant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
